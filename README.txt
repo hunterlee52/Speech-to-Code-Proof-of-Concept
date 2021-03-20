@@ -14,5 +14,5 @@ recognition and transcription. This should produce a .txt file for the input of 
 JFlex/Cup portion of the program.
 
 Once you have this file, download the LexLab folder and place it inside. You should
-then be able to run it (apache-ant-1.9.6/bin/ant run) and it will parser through the
+then be able to run it (apache-ant-1.9.6/bin/ant run) and it will parse through the
 file and return an error or a completed parse.
